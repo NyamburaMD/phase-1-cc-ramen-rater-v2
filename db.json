@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Shoyu Ramen",
         "restaurant": "Nonono",
-        "image": "./assets/ramen/shoyu.jpg",
+        "image": "https://static01.nyt.com/images/2024/01/10/multimedia/ND-Shoyu-Ramen-qflv/ND-Shoyu-Ramen-qflv-square640.jpg",
         "rating": 7,
         "comment": "Delish. Can't go wrong with a classic!"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
-      "image": "./assets/ramen/naruto.jpg",
+      "image": "https://media.istockphoto.com/id/511793034/photo/japanese-ramen-soup-with-chicken-egg-chives-and-sprout.jpg?s=612x612&w=0&k=20&c=F4BTbDq2-F63o1Z9nBR42NANldJ6fTRJWqqeqpoh5nE",
       "rating": 10,
       "comment": "My absolute fave!"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Nirvana Shiromaru",
       "restaurant": "Ippudo",
-      "image": "./assets/ramen/nirvana.jpg",
+      "image": "https://cdn.pixabay.com/photo/2024/06/18/07/13/ramen-8837174_640.png",
       "rating": "7",
       "comment": "Do buy the hype."
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Gyukotsu Ramen",
       "restaurant": "Za-Ya Ramen",
-      "image": "./assets/ramen/gyukotsu.jpg",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2020/12/Quick-Chicken-Ramen-square-FS-22.jpg",
       "rating": 8,
       "comment": "Good to the last drop."
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
-      "image": "./assets/ramen/kojiro.jpg",
+      "image": "https://media.istockphoto.com/id/1406672650/photo/japanese-tonkotsu-ramen.jpg?s=612x612&w=0&k=20&c=XfwavYs_chHo-S-M7IWoK7IxEXzYxd3dFyihnvC_zkI",
       "rating": 6,
       "comment": "Perfect for a cold night."
     }
